@@ -8,4 +8,4 @@ Foram utilizadas as seguintes Ferramentas:
   - Spring Initializr;
   - Heidi SQL.
 
-Copyright © 2023 - [Fernandeezz](https://github.com/Fernandeezz), [Lais2810](https://github.com/lais2810) e [Nycolas-Rafa](https://github.com/nycolas-rafa).
+Copyright © 2023 - [Lais2810](https://github.com/lais2810), [Fernandeezz](https://github.com/Fernandeezz) e [Nycolas-Rafa](https://github.com/nycolas-rafa).
